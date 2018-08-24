@@ -1,0 +1,7 @@
+Github遇到Permanently added the RSA host key for IP address '192.30.252.128' to the list of known host.
+警告：为IP地址192.30.252.128的主机（RSA连接的）持久添加到hosts文件中，那就来添加吧！
+
+解决办法：
+vim /etc/hosts
+
+添加一行：192.30.252.128(github网站ip)　　github.com
